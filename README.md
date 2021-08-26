@@ -1,5 +1,5 @@
 # Website-Blocker-App-in-Python-
-Block websites 
+Created a websites blocker to block all the third party app and website.
 
 ## How do we do it?
 Every operating system has a hosts file. Location of the host file may be different for the different operating system. This host file is map hostname to IP address of the machine. In this host file, we going to list websites which we want to block.
